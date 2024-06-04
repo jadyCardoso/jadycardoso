@@ -1,6 +1,6 @@
 # 💫 About Me:
 😎 I am Front-end developer.<br>📬 Shoot me an Email or add me on LinkedIn
-<img align="right" width="200" src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" />
+<img align="right" width="100" src="https://media.tenor.com/dPLWf7LikXoAAAAC/typing-gif.gif" />
 
 
 ## 🌐 Socials:
